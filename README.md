@@ -1,2 +1,2 @@
 # engineering-playbook
-the single source of truth for everything convention and documentation
+The single source of truth for everything convention and documentation.
